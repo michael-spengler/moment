@@ -25,4 +25,4 @@ deno run https://x.nest.land/moment@1.0.0/usage-example.ts
 ```
 
 # Details 
-see [original docs](http://momentjs.com/docs/)
+see [original docs](https://momentjs.com/docs/)
